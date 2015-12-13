@@ -1,7 +1,7 @@
 Sakkes adventure through Skinnarila
 ===================================
 
-This is global game jam 2013 project of [Lassi Lääti](https://github.com/lasshi) and [Lassi Riihelä](https://github.com/lassiltr).
+This is global game jam 2013 project of [Lassi Lääti](https://github.com/lasshi) and [Lassi Riihelä](https://github.com/lassiltr). It is transfered here so it will never dissaper from ggj archives. SATS is freshmen project created in 3 day gamejam with python.
 
 ### Featuring:
 
@@ -24,4 +24,4 @@ python src/game.py
 video of the game:  
 [![youtube video](http://img.youtube.com/vi/w8EAs5Ix47A/0.jpg)](https://www.youtube.com/watch?v=w8EAs5Ix47A "youtube video")
 
-code is published under same license under all other global game jam stuff and can be found in lisenc.txt.
+code is published under same license under all other global game jam stuff and can be found in lisence.txt.
